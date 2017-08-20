@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on JUNPENG ZHANG</title>
-    <link>https://zhangjunpeng.github.io/talk/</link>
+    <link>https://zhangjunpeng411.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on JUNPENG ZHANG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Identifying miRNA sponge modules using biclustering and regulatory scores</title>
-      <link>https://zhangjunpeng.github.io/talk/example-talk/</link>
+      <link>https://zhangjunpeng411.github.io/talk/example-talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhangjunpeng.github.io/talk/example-talk/</guid>
+      <guid>https://zhangjunpeng411.github.io/talk/example-talk/</guid>
       <description></description>
     </item>
     
