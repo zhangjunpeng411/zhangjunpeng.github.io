@@ -7,24 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Junpeng Zhang</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Computational methods for identifying miRNA sponge interactions</title>
-      <link>https://zhangjunpeng411.github.io/publication/person-re-identification/</link>
+      <link>https://zhangjunpeng411.github.io/publication/mirna_sponge_review/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zhangjunpeng411.github.io/publication/person-re-identification/</guid>
+      <guid>https://zhangjunpeng411.github.io/publication/mirna_sponge_review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring miRNA sponge co-regulation of protein-protein interactions in human breast cancer</title>
-      <link>https://zhangjunpeng411.github.io/publication/clothing-search/</link>
+      <link>https://zhangjunpeng411.github.io/publication/mirscoppi/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zhangjunpeng411.github.io/publication/clothing-search/</guid>
+      <guid>https://zhangjunpeng411.github.io/publication/mirscoppi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying miRNA sponge modules using biclustering and regulatory scores</title>
+      <link>https://zhangjunpeng411.github.io/publication/mirsm/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/mirsm/</guid>
       <description></description>
     </item>
     
