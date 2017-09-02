@@ -20,9 +20,135 @@
     </item>
     
     <item>
+      <title>miRNA sponge</title>
+      <link>https://zhangjunpeng411.github.io/project/mirna_sponge/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/project/mirna_sponge/</guid>
+      <description>&lt;p&gt;Recent studies have discovered that miRNA sponges are closely associated with the
+occurrence and development of cancers, and it is a significant and challenging
+subject to study the mechanisms of miRNA sponges in cancers. From the perspective
+of systems biology, this subject integrates heterogeneous biological data
+including high throughput data, such as miRNA, lncRNA, mRNA, pseudogene and
+circRNA expression profiles, miRNA-target databases, and genes-disease
+relationship databases, to study the identification and reconfirmation of cancer
+miRNA sponges, the causal relationships between cancer miRNA sponges, and new
+methods and technologies of miRNA, lncRNA, mRNA, pseudogene and circRNA expression
+data analysis. The aim is to identify cancer-related miRNA sponges and miRNA
+sponge causal networks and modules in cancers, and further develop a
+bioinformatics analysis software package for inferring miRNA sponge causal
+networks and modules in cancers. By combining molecular function databases (GO,
+KEGG, etc.), we apply the methods into Pan-Cancer data analysis including 12
+disease types to mine cancer-conserved and specific miRNA sponge causal networks
+and modules. The research results will be of great importance in exploring the
+pathogenesis mechanisms of cancers, and promoting the study on precision medicine
+of human cancers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational methods for identifying miRNA sponge interactions</title>
+      <link>https://zhangjunpeng411.github.io/publication/mirna_sponge_review/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/mirna_sponge_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring miRNA sponge co-regulation of protein-protein interactions in human breast cancer</title>
+      <link>https://zhangjunpeng411.github.io/publication/mirscoppi/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/mirscoppi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying miRNA sponge modules using biclustering and regulatory scores</title>
+      <link>https://zhangjunpeng411.github.io/publication/mirsm/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/mirsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying miRNA synergistic regulatory networks in heterogeneous human data via network motifs</title>
+      <link>https://zhangjunpeng411.github.io/publication/mirsrn/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/mirsrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miRLAB: An R Based Dry Lab for Exploring miRNA-mRNA Regulatory Relationships</title>
+      <link>https://zhangjunpeng411.github.io/publication/mirlab/</link>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/mirlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel framework for inferring condition-specific TF and miRNA co-regulation of protein-protein interactions</title>
+      <link>https://zhangjunpeng411.github.io/publication/coreppi/</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/coreppi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Methods for MiRNA Target Prediction from Expression Data</title>
+      <link>https://zhangjunpeng411.github.io/publication/ensemble/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/ensemble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From miRNA regulation to miRNA-TF co-regulation: computational approaches and challenges</title>
+      <link>https://zhangjunpeng411.github.io/publication/mirna-tf/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/mirna-tf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying direct miRNA-mRNA causal regulatory relationships in heterogeneous data</title>
+      <link>https://zhangjunpeng411.github.io/publication/directtarget/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/directtarget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring condition-specific miRNA activity from matched miRNA and mRNA expression data</title>
+      <link>https://zhangjunpeng411.github.io/publication/condition_specific_mirna_activity/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/condition_specific_mirna_activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring functional miRNA-mRNA regulatory modules in epithelial-mesenchymal transition with a probabilistic topic model</title>
+      <link>https://zhangjunpeng411.github.io/publication/fmrms/</link>
+      <pubDate>Sun, 15 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/fmrms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>https://zhangjunpeng411.github.io/post/hugo-demo/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zhangjunpeng411.github.io/post/hugo-demo/</guid>
       <description>
@@ -207,132 +333,6 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>miRNA sponge</title>
-      <link>https://zhangjunpeng411.github.io/project/mirna_sponge/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/project/mirna_sponge/</guid>
-      <description>&lt;p&gt;Recent studies have discovered that miRNA sponges are closely associated with the
-occurrence and development of cancers, and it is a significant and challenging
-subject to study the mechanisms of miRNA sponges in cancers. From the perspective
-of systems biology, this subject integrates heterogeneous biological data
-including high throughput data, such as miRNA, lncRNA, mRNA, pseudogene and
-circRNA expression profiles, miRNA-target databases, and genes-disease
-relationship databases, to study the identification and reconfirmation of cancer
-miRNA sponges, the causal relationships between cancer miRNA sponges, and new
-methods and technologies of miRNA, lncRNA, mRNA, pseudogene and circRNA expression
-data analysis. The aim is to identify cancer-related miRNA sponges and miRNA
-sponge causal networks and modules in cancers, and further develop a
-bioinformatics analysis software package for inferring miRNA sponge causal
-networks and modules in cancers. By combining molecular function databases (GO,
-KEGG, etc.), we apply the methods into Pan-Cancer data analysis including 12
-disease types to mine cancer-conserved and specific miRNA sponge causal networks
-and modules. The research results will be of great importance in exploring the
-pathogenesis mechanisms of cancers, and promoting the study on precision medicine
-of human cancers.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Computational methods for identifying miRNA sponge interactions</title>
-      <link>https://zhangjunpeng411.github.io/publication/mirna_sponge_review/</link>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/mirna_sponge_review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inferring miRNA sponge co-regulation of protein-protein interactions in human breast cancer</title>
-      <link>https://zhangjunpeng411.github.io/publication/mirscoppi/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/mirscoppi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identifying miRNA sponge modules using biclustering and regulatory scores</title>
-      <link>https://zhangjunpeng411.github.io/publication/mirsm/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/mirsm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identifying miRNA synergistic regulatory networks in heterogeneous human data via network motifs</title>
-      <link>https://zhangjunpeng411.github.io/publication/mirsrn/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/mirsrn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>miRLAB: An R Based Dry Lab for Exploring miRNA-mRNA Regulatory Relationships</title>
-      <link>https://zhangjunpeng411.github.io/publication/mirlab/</link>
-      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/mirlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A novel framework for inferring condition-specific TF and miRNA co-regulation of protein-protein interactions</title>
-      <link>https://zhangjunpeng411.github.io/publication/coreppi/</link>
-      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/coreppi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensemble Methods for MiRNA Target Prediction from Expression Data</title>
-      <link>https://zhangjunpeng411.github.io/publication/ensemble/</link>
-      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/ensemble/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From miRNA regulation to miRNA-TF co-regulation: computational approaches and challenges</title>
-      <link>https://zhangjunpeng411.github.io/publication/mirna-tf/</link>
-      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/mirna-tf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identifying direct miRNA-mRNA causal regulatory relationships in heterogeneous data</title>
-      <link>https://zhangjunpeng411.github.io/publication/directtarget/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/directtarget/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inferring condition-specific miRNA activity from matched miRNA and mRNA expression data</title>
-      <link>https://zhangjunpeng411.github.io/publication/condition_specific_mirna_activity/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/condition_specific_mirna_activity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inferring functional miRNA-mRNA regulatory modules in epithelial-mesenchymal transition with a probabilistic topic model</title>
-      <link>https://zhangjunpeng411.github.io/publication/fmrms/</link>
-      <pubDate>Sun, 15 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhangjunpeng411.github.io/publication/fmrms/</guid>
-      <description></description>
     </item>
     
     <item>

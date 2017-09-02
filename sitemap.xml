@@ -14,15 +14,6 @@
     
     <url>
     
-      <loc>https://zhangjunpeng411.github.io/post/hugo-demo/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://zhangjunpeng411.github.io/publication/</loc>
       <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     </url>
@@ -179,7 +170,6 @@
     <url>
     
       <loc>https://zhangjunpeng411.github.io/tags/academic/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -197,8 +187,15 @@
     
     <url>
     
+      <loc>https://zhangjunpeng411.github.io/post/hugo-demo/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://zhangjunpeng411.github.io/tags/hugo/</loc>
-      <lastmod>2017-08-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
