@@ -37,5 +37,77 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Identifying miRNA synergistic regulatory networks in heterogeneous human data via network motifs</title>
+      <link>https://zhangjunpeng411.github.io/publication/mirsrn/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/mirsrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miRLAB: An R Based Dry Lab for Exploring miRNA-mRNA Regulatory Relationships</title>
+      <link>https://zhangjunpeng411.github.io/publication/mirlab/</link>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/mirlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel framework for inferring condition-specific TF and miRNA co-regulation of protein-protein interactions</title>
+      <link>https://zhangjunpeng411.github.io/publication/coreppi/</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/coreppi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Methods for MiRNA Target Prediction from Expression Data</title>
+      <link>https://zhangjunpeng411.github.io/publication/ensemble/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/ensemble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From miRNA regulation to miRNA-TF co-regulation: computational approaches and challenges</title>
+      <link>https://zhangjunpeng411.github.io/publication/mirna-tf/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/mirna-tf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying direct miRNA-mRNA causal regulatory relationships in heterogeneous data</title>
+      <link>https://zhangjunpeng411.github.io/publication/directtarget/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/directtarget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring condition-specific miRNA activity from matched miRNA and mRNA expression data</title>
+      <link>https://zhangjunpeng411.github.io/publication/condition_specific_mirna_activity/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/condition_specific_mirna_activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring functional miRNA-mRNA regulatory modules in epithelial-mesenchymal transition with a probabilistic topic model</title>
+      <link>https://zhangjunpeng411.github.io/publication/fmrms/</link>
+      <pubDate>Sun, 15 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhangjunpeng411.github.io/publication/fmrms/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
